@@ -1,0 +1,9 @@
+
+body {
+    background-image: url('../images/wallpaper.jpg');
+}
+
+.title {
+    padding-top: 70px;
+    padding-bottom: 120px;
+}
